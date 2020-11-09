@@ -1,0 +1,2 @@
+# Vocdoni FAQ
+
