@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Vocdoni FAQ](untitled/README.md)
-  * [What is Vocdoni?](untitled/what-is-vocdoni.md)
-  * [Is Vocdoni anonymous?](untitled/is-vocdoni-anonymous.md)
-  * [Is Vocdoni secure?](untitled/is-vocdoni-secure.md)
-  * [I'm an organization, what can I do with Vocdoni?](untitled/im-an-organization-what-can-i-do-with-vocdoni.md)
-  * [What kind of technologies does Vocdoni use?](untitled/what-kind-of-technologies-does-vocdoni-use.md)
-  * [How is the transparency and integrity of the voting ensured?](untitled/how-is-the-transparency-and-integrity-of-the-voting-ensured.md)
-  * [Why does Vocdoni help users have more control over their data?](untitled/why-does-vocdoni-help-users-have-more-control-over-their-data.md)
+* [Vocdoni FAQ](faq/README.md)
+  * [What is Vocdoni?](faq/what-is-vocdoni.md)
+  * [Is Vocdoni anonymous?](faq/is-vocdoni-anonymous.md)
+  * [Is Vocdoni secure?](faq/is-vocdoni-secure.md)
+  * [I'm an organization, what can I do with Vocdoni?](faq/im-an-organization-what-can-i-do-with-vocdoni.md)
+  * [What kind of technologies does Vocdoni use?](faq/what-kind-of-technologies-does-vocdoni-use.md)
+  * [How is the transparency and integrity of the voting ensured?](faq/how-is-the-transparency-and-integrity-of-the-voting-ensured.md)
+  * [Why does Vocdoni help users have more control over their data?](faq/why-does-vocdoni-help-users-have-more-control-over-their-data.md)
 
 ## Vocdoni Platform <a id="vocdoni-platform-1"></a>
 
