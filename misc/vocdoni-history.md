@@ -20,11 +20,13 @@
 
 
 
-**2020 July** - First relevant voting process hold with a 280.000 user base.
+**2020 July** - First relevant [voting process hold with a 280.000 user base](https://app.gitbook.com/@vocdoni/s/faq/misc/use-cases/omnium-cultural) with a client \(Òmnium Cultural\).
 
-**2020 September** - Vocdoni Platform Early Access program starts with +20 organizations using Vocdoni on regular basis.
+**2020 September** - Early Access program starts with +20 organizations using Vocdoni Platform on regular basis.
 
-**2020 December** - Vocdoni Bridge MVP.
+**2020 October** - Vocdoni Bridge, a new project for token-based governance on top of Vocdoni Open Stack starts.
+
+**2020 December** - Vocdoni Bridge MVP released.
 
 **2021 January** - Vocdoni Platforms available in Open Access.
 
