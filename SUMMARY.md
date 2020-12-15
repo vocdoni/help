@@ -23,7 +23,8 @@
 
 ## Other components
 
-* [Vochain explorer](other-components/vochain-explorer.md)
+* [Vochain explorer](other-components/vochain-explorer/README.md)
+  * [Guide - Deploy Vochain Explorer](other-components/vochain-explorer/guide-deploy-vochain-explorer.md)
 * [Vocdoni API](other-components/vocdoni-api/README.md)
   * [Start using Vocdoni API](other-components/vocdoni-api/start-using-vocdoni-api/README.md)
     * [Entity creation](other-components/vocdoni-api/start-using-vocdoni-api/untitled.md)
