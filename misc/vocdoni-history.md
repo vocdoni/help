@@ -1,34 +1,40 @@
 # Vocdoni chronology
 
-**2017 October** - Censorship during the 2017 Catalan referendum catalyzes the birth of the project
+### 2021
 
-**2018 April** - First donations are received. Project starts.
+**January** - Vocdoni Platform available in Open Access.
 
-**2018 June** - First testing with ZCash.
+### 2020
 
-**2018 October** - First design of [Vocdoni Open Stack](https://docs.vocdoni.io).
+**July** - First relevant [voting process hold with a 280.000 user base](https://app.gitbook.com/@vocdoni/s/faq/misc/use-cases/omnium-cultural) with a client \(Òmnium Cultural\).
 
-**2018 November** - Team consolidation. Development starts.
+**September** - Early Access program starts with +20 organizations using Vocdoni Platform on regular basis.
 
+**October** - Vocdoni Bridge, a new project for token-based governance on top of Vocdoni Open Stack starts.
 
+**December** - Vocdoni Bridge MVP released.
 
-**2019 July** - Seed funding.
+### 2019
 
-**2019 December** - First version of Vocdoni Open Stack Infrastructure working.
+**July** - Seed funding.
 
-**2020 February** - Vocdoni Platform MVP released.
+**December** - First version of Vocdoni Open Stack Infrastructure working.
 
+**February** - Vocdoni Platform MVP released.
 
+### 2018
 
-**2020 July** - First relevant [voting process hold with a 280.000 user base](https://app.gitbook.com/@vocdoni/s/faq/misc/use-cases/omnium-cultural) with a client \(Òmnium Cultural\).
+**April** - First donations are received. Project starts.
 
-**2020 September** - Early Access program starts with +20 organizations using Vocdoni Platform on regular basis.
+**June** - First testing with ZCash.
 
-**2020 October** - Vocdoni Bridge, a new project for token-based governance on top of Vocdoni Open Stack starts.
+**October** - First design of [Vocdoni Open Stack](https://docs.vocdoni.io).
 
-**2020 December** - Vocdoni Bridge MVP released.
+**November** - Team consolidation. Development starts.
 
-**2021 January** - Vocdoni Platforms available in Open Access.
+### **2017**
+
+**October** - Censorship during the 2017 Catalan referendum catalyzes the birth of the project
 
 
 
