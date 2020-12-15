@@ -38,8 +38,10 @@
 
 ## Misc
 
-* [Use cases](misc/use-cases.md)
-* [Vocdoni history](misc/vocdoni-history.md)
+* [Use cases](misc/use-cases/README.md)
+  * [Centre Excursionista de Catalunya](misc/use-cases/centre-excursionista-de-catalunya.md)
+  * [Òmnium Cultural](misc/use-cases/omnium-cultural.md)
+* [Vocdoni chronology](misc/vocdoni-history.md)
 
 ## Other resources
 

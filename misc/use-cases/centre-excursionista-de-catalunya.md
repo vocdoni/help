@@ -1,0 +1,2 @@
+# Centre Excursionista de Catalunya
+
