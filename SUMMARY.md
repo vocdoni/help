@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [What is Vocdoni?](what-is-vocdoni/README.md)
+  * [Vocdoni chronology](what-is-vocdoni/vocdoni-history.md)
 * [Vocdoni FAQ](faq/README.md)
   * [What is Vocdoni?](faq/what-is-vocdoni.md)
   * [Is Vocdoni anonymous?](faq/is-vocdoni-anonymous.md)
@@ -42,7 +44,6 @@
 * [Use cases](misc/use-cases/README.md)
   * [Centre Excursionista de Catalunya](misc/use-cases/centre-excursionista-de-catalunya.md)
   * [Òmnium Cultural](misc/use-cases/omnium-cultural.md)
-* [Vocdoni chronology](misc/vocdoni-history.md)
 
 ## Other resources
 
