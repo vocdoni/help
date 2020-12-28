@@ -41,9 +41,9 @@
 
 ## Misc
 
-* [Use cases](misc/use-cases/README.md)
-  * [Centre Excursionista de Catalunya](misc/use-cases/centre-excursionista-de-catalunya.md)
-  * [Òmnium Cultural](misc/use-cases/omnium-cultural.md)
+* [Study cases](misc/study-cases/README.md)
+  * [Centre Excursionista de Catalunya](misc/study-cases/centre-excursionista-de-catalunya.md)
+  * [Òmnium Cultural](misc/study-cases/omnium-cultural.md)
 
 ## Other resources
 
