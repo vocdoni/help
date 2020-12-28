@@ -16,7 +16,7 @@
       <td style="text-align:left"><b>&#xD2;mnium Cultural</b>
       </td>
       <td style="text-align:left">Association</td>
-      <td style="text-align:left">285000</td>
+      <td style="text-align:left">185000</td>
       <td style="text-align:left">
         <p>AGM</p>
         <p>Board elections</p>
