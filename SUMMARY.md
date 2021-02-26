@@ -41,7 +41,7 @@
 
 ## Misc
 
-* [Study cases](misc/study-cases/README.md)
+* [Case studies](misc/study-cases/README.md)
   * [Centre Excursionista de Catalunya](misc/study-cases/centre-excursionista-de-catalunya.md)
   * [Òmnium Cultural](misc/study-cases/omnium-cultural.md)
 

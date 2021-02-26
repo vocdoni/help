@@ -1,4 +1,4 @@
-# Study cases
+# Case studies
 
 <table>
   <thead>
